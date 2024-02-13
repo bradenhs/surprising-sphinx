@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Surprising Sphinx",
+  "avatar": "TOaaaAYuHWLjJicaa",
+  "preferredColor": "green",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
